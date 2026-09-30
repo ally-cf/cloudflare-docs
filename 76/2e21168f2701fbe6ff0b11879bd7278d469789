@@ -1,0 +1,27 @@
+src/content/changelog/fundamentals/2026-10-02-organization-account-zone-limits.mdx
+  s_0809b4cae0875c::t_2d9dfb7b6e1dad 1-14
+src/content/docs/fundamentals/organizations/for-enterprise.mdx
+  s_0809b4cae0875c::t_ec44e618a42a3d 23,55,87
+src/content/docs/fundamentals/organizations/for-mssp-distributors.mdx
+  s_0809b4cae0875c::t_643e0e34275563 60
+src/content/docs/fundamentals/organizations/index.mdx
+  s_0809b4cae0875c::t_490185f50f305b 25
+src/content/docs/fundamentals/organizations/limitations.mdx
+  s_0809b4cae0875c::t_95536177943dff 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "762e21168f2701fbe6ff0b11879bd7278d469789",
+  "prompts": {},
+  "sessions": {
+    "s_0809b4cae0875c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f0d1ed797ffeXucR4iZEHTKwf5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ally <ally@cloudflare.com>"
+    }
+  }
+}
