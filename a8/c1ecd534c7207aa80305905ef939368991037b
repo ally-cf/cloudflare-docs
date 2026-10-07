@@ -1,0 +1,19 @@
+src/content/changelog/organizations/2026-10-07-organizations-generally-available.mdx
+  s_cd9eb3fae69d69::t_1ead8544228a18 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a8c1ecd534c7207aa80305905ef939368991037b",
+  "prompts": {},
+  "sessions": {
+    "s_cd9eb3fae69d69": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee9507661ffeQ2nFd0k69TPVPe",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ally <ally@cloudflare.com>"
+    }
+  }
+}
