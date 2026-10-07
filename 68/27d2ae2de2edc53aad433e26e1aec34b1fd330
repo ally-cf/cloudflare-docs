@@ -1,0 +1,19 @@
+src/content/docs/fundamentals/organizations/limitations.mdx
+  s_75468d76d19f9b::t_7955f68afc3c32 25,27-33,35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6827d2ae2de2edc53aad433e26e1aec34b1fd330",
+  "prompts": {},
+  "sessions": {
+    "s_75468d76d19f9b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f034ffd42ffeJO5cFDZt43YkP2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ally <ally@cloudflare.com>"
+    }
+  }
+}
