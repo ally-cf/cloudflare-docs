@@ -1,0 +1,19 @@
+src/content/docs/cloudflare-one/traffic-policies/tiered-policies/index.mdx
+  s_b9719bd8bef751::t_2e0415b5bb951a 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3bd5c6b3e5fae40081e91298551cf7c187a165f0",
+  "prompts": {},
+  "sessions": {
+    "s_b9719bd8bef751": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ef46789a7ffeH0Fjg1aFNlWyWw",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ally <ally@cloudflare.com>"
+    }
+  }
+}
